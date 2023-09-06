@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anilsethi58
 - 👀 I’m interested in Software Devlopement (python)
-- 🌱 I’m currently learning  B.Tech. (CSE 2nd Year)
+- 🌱 I’m currently learning  B.Tech. (CSE 3rd Year)
 - 💞️ I’m looking to collaborate on Various projects in python
 - 📫 How to reach me anilsethi20208@gmai.com
 
