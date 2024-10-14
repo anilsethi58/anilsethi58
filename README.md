@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anil Sethi
-- 👀 I’m interested in Software Devlopement (python)
+- 👀 I’m interested in Software Devlopement and Web Developement
 - 🌱 I’m currently learning  B.Tech. (CSE 4th Year)
 - 💞️ I’m looking to collaborate on Various projects in python
 - 📫 How to reach me anilsethi20208@gmai.com
